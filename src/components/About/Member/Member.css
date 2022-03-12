@@ -1,0 +1,10 @@
+.team-member {
+  text-align: center;
+}
+.team-member img {
+  display: inline-block;
+  margin: 0 auto;
+  height: 300px;
+  border-radius: 3px;
+  object-fit: cover;
+}

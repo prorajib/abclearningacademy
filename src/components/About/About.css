@@ -1,0 +1,23 @@
+.about-header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("../../images/team.jpg");
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  padding: 250px 0 50px 0;
+}
+.heading-about-primary {
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.line-about {
+  display: inline-block;
+  margin: auto 0;
+  width: 48px;
+  height: 3px !important;
+  background-color: #ff6700;
+}

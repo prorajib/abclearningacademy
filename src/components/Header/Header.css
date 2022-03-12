@@ -1,0 +1,22 @@
+.navbar-brand img {
+  width: 50%;
+}
+
+.nav-link {
+  justify-content: right;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ff6700;
+  padding-left: 5px;
+}
+
+.nav-link:hover {
+  border-bottom: 2px solid #ff6700;
+}
+
+#basic-navbar-nav {
+  justify-content: space-between;
+}
+.search-bar {
+  width: 50%;
+}
